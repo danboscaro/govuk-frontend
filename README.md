@@ -107,7 +107,7 @@ covers both the codebase and any sample code in the documentation. The
 documentation is &copy; Crown copyright and available under the terms of the
 Open Government 3.0 licence.
 
-## Contribution guidelines
+## Contributing guidelines
 
 If you want to help us build GOV.UK Frontend, view our [contribution
 guidelines](CONTRIBUTING.md).
